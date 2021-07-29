@@ -21,12 +21,7 @@ ISSN 0010-4825,
 https://doi.org/10.1016/j.compbiomed.2021.104704.
 (https://www.sciencedirect.com/science/article/pii/S0010482521004984)
 
-# Highlights
-We introduce (i) noising- and (ii) denoising-based data augmenters to improve the generalization of a deep CNN.
-We propose a “learning-to-augment” strategy to generate new data, noisy and denoised images.
-We show the effectiveness of our proposed approach on a challenging task of COVID-19 detection in chest X-ray images and outperform state-of-the-art data augmentation methods.
-
-# Code
+# The source code
 The following Matlab code is the original code corresponding to the paper, Learning-to-Augment Strategy Using Noisy and Denoised Data: An Algorithm to Improve Generalization of Deep CNN for the Detection of COVID-19 in X-ray Images.
 
 # Email
