@@ -14,7 +14,7 @@ Please add the paper into reference if the repository is helpful to you.
 
 Mohammad Momeny, Ali Asghar Neshat, Mohammad Arafat Hussain, Solmaz Kia, Mahmoud Marhamati, Ahmad Jahanbakhshi, Ghassan Hamarneh,
 **Learning-to-Augment Strategy using Noisy and Denoised Data: Improving Generalizability of Deep CNN for the Detection of COVID-19 in X-ray Images,**
-Computers in Biology and Medicine,
+*Computers in Biology and Medicine*,
 Volume 136, 2021, 104704,
 ISSN 0010-4825,
 https://doi.org/10.1016/j.compbiomed.2021.104704.
