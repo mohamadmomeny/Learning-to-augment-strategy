@@ -9,7 +9,7 @@ Chest X-ray images are used in deep convolutional neural networks for the detect
 Learning-to-augment, Data augmentation, Noise, X-ray images, Classification, COVID-19, Deep learning
 
 # Cite
-### Please add the paper into reference if the repository is helpful to you.
+#### Please add the paper into reference if the repository is helpful to you.
 
 
 Mohammad Momeny, Ali Asghar Neshat, Mohammad Arafat Hussain, Solmaz Kia, Mahmoud Marhamati, Ahmad Jahanbakhshi, Ghassan Hamarneh,
